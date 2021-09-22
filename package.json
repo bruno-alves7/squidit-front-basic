@@ -2,7 +2,7 @@
   "name": "squidit-front-basic",
   "version": "1.0.0",
   "description": "teste técnico",
-  "main": "index.html",
+  "main": "scripts.js",
   "dependencies": {
     "@squidit/css": "^1.1.7"
   },
