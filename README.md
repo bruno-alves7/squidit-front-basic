@@ -10,7 +10,7 @@ https://us-central1-squid-apis.cloudfunctions.net/test-front-basic`;
 - [X] Cada imagem deve ter um click para o Link da imagem no instagram, abrindo em uma nova aba ao clicar;
 - [ ] Responsividade e experiência de usuário;
 - [X] loaders;
-- [ ] tratamento de erros;
+- [X] tratamento de erros;
 - [X] animações;
 - [x] efeitos;
 - [X] Utilizar o framework da Squid para construção do layout [ SQUID CSS](https://css.squidit.com.br/);

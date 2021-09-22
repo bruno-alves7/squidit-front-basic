@@ -1,0 +1,23 @@
+{
+  "name": "squidit-front-basic",
+  "version": "1.0.0",
+  "description": "teste técnico",
+  "main": "index.html",
+  "dependencies": {
+    "@squidit/css": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-alves7/squidit-front-basic.git"
+  },
+  "author": "bruno-alves7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruno-alves7/squidit-front-basic/issues"
+  },
+  "homepage": "https://github.com/bruno-alves7/squidit-front-basic#readme"
+}
