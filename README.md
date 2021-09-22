@@ -17,6 +17,6 @@ https://us-central1-squid-apis.cloudfunctions.net/test-front-basic`;
 
 ## Para executar o projeto
 
-1 - Clone o projeto https://github.com/bruno-alves7/squidit-front-basic.git
-2 - Execute no terminarl ``` npm install @squidit/css --save ```
-3 - Execute a extensão live serve no vc code
+1. - Clone o projeto https://github.com/bruno-alves7/squidit-front-basic.git
+2. - Execute no terminarl ``` npm install @squidit/css --save ```
+3. - Execute a extensão live serve no vc code
