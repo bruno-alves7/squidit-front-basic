@@ -14,3 +14,9 @@ https://us-central1-squid-apis.cloudfunctions.net/test-front-basic`;
 - [X] animações;
 - [x] efeitos;
 - [X] Utilizar o framework da Squid para construção do layout [ SQUID CSS](https://css.squidit.com.br/);
+
+## Para executar o projeto
+
+1 - Clone o projeto https://github.com/bruno-alves7/squidit-front-basic.git
+2 - Execute no terminarl ``` npm install @squidit/css --save ```
+3 - Execute a extensão live serve no vc code
